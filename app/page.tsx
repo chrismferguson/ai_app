@@ -12,7 +12,7 @@ export default async function Home() {
         <p className="text-2xl text-white/60 mb-4">Each day write a journal entry and have AI detect signs of burnout. See the signs before it's too late.</p>
         <div>
           <Link href={href}>
-          <button className="bg-blue-600 px-4 py-2 rounded-lg text-xl">get started
+          <button className="bg-orange-500 border-blue-500 px-4 py-2 rounded-full text-xl">start journaling
           </button>
           </Link>
         </div>
